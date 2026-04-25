@@ -49,9 +49,7 @@ so no work is ever lost between sessions.
 |---|------|-----------|
 | 1 | Muhammad [Last Name] | [Your ID] |
 | 2 | [Member 2 Full Name] | [Member 2 ID] |
-| 3 | [Member 3 Full Name] | [Member 3 ID] |
 
-> ⚠️ Replace the placeholders above with your actual names and IDs before submission.
 
 ---
 
