@@ -47,8 +47,8 @@ so no work is ever lost between sessions.
 
 | # | Name | Student ID |
 |---|------|-----------|
-| 1 | Muhammad [Last Name] | [Your ID] |
-| 2 | [Member 2 Full Name] | [Member 2 ID] |
+| 1 | Shaikh Muhammad Sameer | 25K-0729 |
+| 2 | Muhammad Siddique | 25K-0610 |
 
 
 ---
