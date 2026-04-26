@@ -1,11 +1,11 @@
-# 🗂️ Mini Git — Console-Based Version Control System
+# Mini Git — Console-Based Version Control System
 
 > **OOP Lab Semester Project | FAST-NUCES Karachi**  
 > Developed in C++17 using Object-Oriented Programming principles
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Group Members](#group-members)
@@ -20,7 +20,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Mini Git** is a console-based Mini Version Control System built entirely in **C++**,
 modelled after the core workflow of Git.
@@ -43,17 +43,16 @@ so no work is ever lost between sessions.
 
 ---
 
-## 👥 Group Members
+## Group Members
 
 | # | Name | Student ID |
 |---|------|-----------|
 | 1 | Shaikh Muhammad Sameer | 25K-0729 |
 | 2 | Muhammad Siddique | 25K-0610 |
 
-
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 ### Use Case 1 — Initialize a Repository
 **Actor:** User  
@@ -160,7 +159,7 @@ so no work is ever lost between sessions.
 
 ---
 
-## 🧠 OOP Concepts Demonstrated
+## OOP Concepts Demonstrated
 
 ### 1. Classes & Objects
 Every real-world entity is modelled as a class:
@@ -308,7 +307,7 @@ the single-record-per-line file format is never corrupted by user content.
 
 ---
 
-## 📁 Project File Structure
+## Project File Structure
 
 ```
 minigit/
@@ -341,7 +340,7 @@ minigit/
 
 ---
 
-## 🔧 How to Compile
+## How to Compile
 
 ### Option A — Using `make` (Recommended)
 
@@ -380,7 +379,7 @@ g++ -std=c++17 -Wall -Wextra -g \
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 ./minigit
@@ -393,7 +392,7 @@ minigit.exe
 
 ---
 
-## 📖 How to Use the System
+## How to Use the System
 
 ### Step 1 — Enter Repository Name
 
@@ -507,7 +506,7 @@ Restore the working directory to the exact state of a past commit.
   [OK] Working directory reverted to commit #1.
 ```
 
-> ⚠️ Uncommitted changes in the working directory will be lost after a revert.
+> Uncommitted changes in the working directory will be lost after a revert.
 
 #### Option 8 — Search Commits
 Find commits matching a keyword (searches both messages and filenames, case-insensitive).
@@ -529,7 +528,7 @@ Saves all data to disk and exits cleanly.
 
 ---
 
-## 🧪 Test Cases
+## Test Cases
 
 Each test case specifies the exact inputs, expected output, and which
 requirement is being validated.
@@ -916,7 +915,7 @@ Choice : 9
 
 ---
 
-## ⚙️ Assumptions & Limitations
+## Assumptions & Limitations
 
 | Item | Detail |
 |------|--------|
